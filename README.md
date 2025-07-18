@@ -16,3 +16,6 @@ The task times of the P22-OR, P47-OR, P60-OR, P73-OR, and P133-OR were regenerat
 •	Standard deviations of task times
 •	AND/OR precedence relations
 
+# Model Results
+The results file includes data such as problem instance, demand scenario, variability levels (CV), confidence levels (alpha), rebalancing period (i), cycle time of period i-1 (CT(i-1)), 
+cycle time of period i (CTi), rebalancing cost (RC), the number of opened stations (NS), and the CPU time. 
